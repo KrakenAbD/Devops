@@ -4,6 +4,11 @@
  * V1.0         18.06.26    Developer 1   Add Method Implemented
 *******/ 
 
+/********
+ * Name: Calculator2
+ * Author: Abhra
+ * Date: 18/06/2026
+ ********/
 
 
 public with sharing class Calculator2 {
